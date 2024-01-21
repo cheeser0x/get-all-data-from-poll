@@ -16,7 +16,7 @@ const dummy_data = [
 
 
 const MAX_ITEMS = 100;
-const UPDATE_INTERVAL = 9 * 1000; // 10 minutes
+const UPDATE_INTERVAL = 9 * 1000; // 9 seconds
 
 // Function to update the dummy data
 function updateDummyData() {
